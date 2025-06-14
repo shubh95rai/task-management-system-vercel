@@ -2,8 +2,6 @@
 
 A full-featured Task Management System built with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. This application allows users to create, manage, and assign tasks efficiently with powerful features like **User Authentication**, **Role-Based Access Control**, and **report downloads in Excel** format.
 
----
-
 ## 🚀 Features
 
 - 🔐 **User Authentication** (Login, Register, JWT-based)
@@ -15,8 +13,6 @@ A full-featured Task Management System built with the **MERN Stack (MongoDB, Exp
   - Admin: Full access
   - User: View assigned tasks
 - 📥 **Download Reports** (Tasks & Users) as Excel (.xlsx)
-
----
 
 ## 🧑‍💼 Admin & 🙋 User Dashboards
 
@@ -35,8 +31,6 @@ A full-featured Task Management System built with the **MERN Stack (MongoDB, Exp
 - See task deadlines and priorities
 - Task summary charts for better visibility
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -54,8 +48,6 @@ A full-featured Task Management System built with the **MERN Stack (MongoDB, Exp
 - JSON Web Token (JWT)
 - bcrypt.js
 - exceljs (for Excel reports)
-
----
 
 ## 🌐 Live Demo
 
